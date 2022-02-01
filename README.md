@@ -8,6 +8,12 @@ public void conocimientos{
 }
 ```
 
+### Contactos
+- [Instagram](https://www.instagram.com/_isaac_ac_/)
+- Correo: abarcai532@gmail.com
+- [linkedin](https://www.linkedin.com/in/isaac-abarca-5a8368221/)
+
+
 <!--
 **Isaac-Abarca/Isaac-Abarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
