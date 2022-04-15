@@ -7,7 +7,7 @@ public void conocimientos{
   String[] codeBasic = {"Java", "Html5","Css3","Javascrit"};
   String[] herramientas = {"git", "gitHub", "gitlab"};
   String[] aprendiendo = {"C#", "Arquitecturas de Software"};
-  String[] idioas = {"Ingles A2", "Español"};
+  String[] idiomas = {"Ingles A2", "Español"};
 }
 ```
 
