@@ -1,20 +1,18 @@
 ### ¡Hola 👋! Soy Isaac
 
-- 🔭 Actualmente estoy trabajando en un pequeño sistema de chat, utilizando sockets en Java. Además, de aumentar día con día mis conocimientos sobre este gran mundo, que es la programación.
+- 🔭 Actualmente, me encuentro estudiando mi carrera  aprendiendo mas y mas sobre la programcion y este gran mmundo. 
 
 ```java
 public void conocimientos{
   String[] codeBasic = {"Java", "Html5","Css3","Javascrit"};
+  String[] herramientas = {"git", "gitHub", "gitlab"};
+  String[] aprendiendo = {"C#", "Arquitecturas de Software"};
+  String[] idioas = {"Ingles A2", "Español"};
 }
 ```
 
 
-```bash
-  Hola que tal
-```
-
 ### Contactos
-- [Instagram](https://www.instagram.com/_isaac_ac_/)
 - Correo: abarcai532@gmail.com
 - [linkedin](https://www.linkedin.com/in/isaac-abarca-5a8368221/)
 
