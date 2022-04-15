@@ -3,7 +3,7 @@
 - 🔭 Actualmente, me encuentro estudiando mi carrera  aprendiendo mas y mas sobre la programcion y este gran mmundo. 
 
 ```java
-public void conocimientos{
+public void conocimientos(){
   String[] codeBasic = {"Java", "Html5","Css3","Javascrit"};
   String[] herramientas = {"git", "gitHub", "gitlab"};
   String[] aprendiendo = {"C#", "Arquitecturas de Software"};
