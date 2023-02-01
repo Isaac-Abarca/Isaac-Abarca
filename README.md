@@ -1,6 +1,6 @@
 ### ¡Hola 👋! Soy Isaac
 
-- 🔭 Actualmente, me encuentro estudiando mi carrera  aprendiendo mas y mas sobre la programcion y este gran mundo. 
+- 🔭 Actualmente, me encuentro estudiando mi carrera  aprendiendo mas y mas sobre la programacion y este gran mundo. 
 
 ```java
 public void conocimientos(){
